@@ -4,11 +4,11 @@
 
 **Version:** 1.0.0
 
-**Status:** Draft
+**Status:** Published
 
 **Author:** Lagado Software
 
-**Last Updated:** 2026-07-29
+**Last Updated:** 2026-08-02
 
 ---
 
@@ -111,7 +111,7 @@ All project documentation shall be stored inside the Project Fenix repository wh
 
 | Version | Date | Description |
 |---------|------|-------------|
-| 1.0.0 | 2026-07-29 | Initial documentation standards |
+| 1.0.0 | 2026-08-02 | Initial documentation standards |
 
 
 ## Related
